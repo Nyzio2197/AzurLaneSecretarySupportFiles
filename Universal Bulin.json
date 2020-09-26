@@ -1,0 +1,23 @@
+{
+  "name": "Universal Bulin",
+  "skins": [
+    {
+      "name": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/41/Universal_BulinChibi.png",
+      "secIdle1Text": "Us Bulins are pretty awesome, buli!",
+      "secIdle2Text": "Is there nothing for Bulin to do? Really? Then let\u0027s go play! Wheee!",
+      "secIdle3Text": "Commander, let\u0027s go dig for some treasure, buli~!",
+      "secTouchText": "Buli? Do you want to be bulified?",
+      "secSpecialTouchText": "Buli? ... ... Buli?",
+      "secIdle1AudioUrl": "https://azurlane.koumakan.jp/w/images/4/47/Universal_Bulin_SecIdle1JP.ogg",
+      "secIdle2AudioUrl": "https://azurlane.koumakan.jp/w/images/a/a2/Universal_Bulin_SecIdle2JP.ogg",
+      "secIdle3AudioUrl": "https://azurlane.koumakan.jp/w/images/9/98/Universal_Bulin_SecIdle3JP.ogg",
+      "secTouchAudioUrl": "https://azurlane.koumakan.jp/w/images/b/b5/Universal_Bulin_Sec1JP.ogg",
+      "secSpecialTouchAudioUrl": "https://azurlane.koumakan.jp/w/images/3/32/Universal_Bulin_Sec2JP.ogg"
+    },
+    {
+      "name": "Universal Enhanced Rigging (Experimental) +α",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/1/16/Universal_BulinEventChibi.png"
+    }
+  ]
+}

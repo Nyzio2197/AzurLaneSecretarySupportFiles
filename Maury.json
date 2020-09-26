@@ -1,0 +1,19 @@
+{
+  "name": "Maury",
+  "skins": [
+    {
+      "name": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/37/MauryChibi.png",
+      "secIdle1Text": "Commander, want to work out a bit? Sitting for so long is terrible for your body!",
+      "secIdle2Text": "I thought we were going for some long distance trip at Wake Island again.",
+      "secIdle3Text": "I swear it wasn\u0027t my tummy making that noise!",
+      "secTouchText": "Are you helping me recover? ... Thank you...",
+      "secSpecialTouchText": "...!! Hey! There\u0027s a line you shouldn\u0027t cross when giving massages.",
+      "secIdle1AudioUrl": "https://azurlane.koumakan.jp/w/images/d/d7/Maury_SecIdle1JP.ogg",
+      "secIdle2AudioUrl": "https://azurlane.koumakan.jp/w/images/2/2e/Maury_SecIdle2JP.ogg",
+      "secIdle3AudioUrl": "https://azurlane.koumakan.jp/w/images/8/82/Maury_SecIdle3JP.ogg",
+      "secTouchAudioUrl": "https://azurlane.koumakan.jp/w/images/a/ae/Maury_Sec1JP.ogg",
+      "secSpecialTouchAudioUrl": "https://azurlane.koumakan.jp/w/images/b/bd/Maury_Sec2JP.ogg"
+    }
+  ]
+}

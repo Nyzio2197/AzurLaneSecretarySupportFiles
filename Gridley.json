@@ -1,0 +1,33 @@
+{
+  "name": "Gridley",
+  "skins": [
+    {
+      "name": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/cb/GridleyChibi.png",
+      "secIdle1Text": "I\u0027ve got plenty of pictures of Sara. 800 bucks a print!",
+      "secIdle2Text": "Mississippi will bring me back home just fine if I get lost!",
+      "secIdle3Text": "Commander, have you seen Sara? I want to try my new camera!",
+      "secTouchText": "Aaah, that tickles~! I can\u0027t keep the camera straight~",
+      "secSpecialTouchText": "Commander! If you do that again, I\u0027ll photograph it and report it to the police~",
+      "secIdle1AudioUrl": "https://azurlane.koumakan.jp/w/images/2/23/Gridley_SecIdle1JP.ogg",
+      "secIdle2AudioUrl": "https://azurlane.koumakan.jp/w/images/a/a2/Gridley_SecIdle2JP.ogg",
+      "secIdle3AudioUrl": "https://azurlane.koumakan.jp/w/images/a/a1/Gridley_SecIdle3JP.ogg",
+      "secTouchAudioUrl": "https://azurlane.koumakan.jp/w/images/9/9b/Gridley_Sec1JP.ogg",
+      "secSpecialTouchAudioUrl": "https://azurlane.koumakan.jp/w/images/1/12/Gridley_Sec2JP.ogg"
+    },
+    {
+      "name": "Christmas Photoshoot",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/22/GridleyChristmasChibi.png",
+      "secIdle1Text": "Christmas special edition Saratoga photos, one thousand dollars each! Guhehe~ my fangirl power level increases during the holiday season!",
+      "secIdle2Text": "Commander, can you take some photos of me with Saratoga?",
+      "secIdle3Text": "Thanks for the waterproof camera, Commander! I\u0027ll be sure to take good care of it!",
+      "secTouchText": "What\u0027s in this bag? Guhehe~ an album of premium Saratoga photos! As long as I have this, she will always be at my side!",
+      "secSpecialTouchText": "Uwaah! Don\u0027t take any pictures!",
+      "secIdle1AudioUrl": "https://azurlane.koumakan.jp/w/images/9/9a/Gridley_SecIdle1Skin1JP.ogg",
+      "secIdle2AudioUrl": "https://azurlane.koumakan.jp/w/images/a/a6/Gridley_SecIdle2Skin1JP.ogg",
+      "secIdle3AudioUrl": "https://azurlane.koumakan.jp/w/images/d/dd/Gridley_SecIdle3Skin1JP.ogg",
+      "secTouchAudioUrl": "https://azurlane.koumakan.jp/w/images/7/7e/Gridley_Sec1Skin1JP.ogg",
+      "secSpecialTouchAudioUrl": "https://azurlane.koumakan.jp/w/images/b/b7/Gridley_Sec2Skin1JP.ogg"
+    }
+  ]
+}

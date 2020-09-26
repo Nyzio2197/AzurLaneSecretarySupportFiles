@@ -1,0 +1,19 @@
+{
+  "name": "Prototype Bulin MKII",
+  "skins": [
+    {
+      "name": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/9/98/Prototype_Bulin_MKIIChibi.png",
+      "secIdle1Text": "Purin~! It\u0027s so big in here! There\u0027s so much room to run around!",
+      "secIdle2Text": "Oh right, it\u0027s not my job to just run around, is it? Purin~!",
+      "secIdle3Text": "Purin~? I\u0027m too loud? Hmph, who cares what you think!",
+      "secTouchText": "Purin~ You can\u0027t catch me!",
+      "secSpecialTouchText": "Purin~ purin~! (Prototype Bulin MKII continues to spin faster)",
+      "secIdle1AudioUrl": "https://azurlane.koumakan.jp/w/images/c/c2/Prototype_Bulin_MKII_SecIdle1JP.ogg",
+      "secIdle2AudioUrl": "https://azurlane.koumakan.jp/w/images/a/a5/Prototype_Bulin_MKII_SecIdle2JP.ogg",
+      "secIdle3AudioUrl": "https://azurlane.koumakan.jp/w/images/7/7f/Prototype_Bulin_MKII_SecIdle3JP.ogg",
+      "secTouchAudioUrl": "https://azurlane.koumakan.jp/w/images/3/3a/Prototype_Bulin_MKII_Sec1JP.ogg",
+      "secSpecialTouchAudioUrl": "https://azurlane.koumakan.jp/w/images/1/14/Prototype_Bulin_MKII_Sec2JP.ogg"
+    }
+  ]
+}

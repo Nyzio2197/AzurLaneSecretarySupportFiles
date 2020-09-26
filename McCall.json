@@ -1,0 +1,19 @@
+{
+  "name": "McCall",
+  "skins": [
+    {
+      "name": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/30/McCallChibi.png",
+      "secIdle1Text": "We all get along around here, don\u0027t you think? Care for a popsicle?",
+      "secIdle2Text": "Ahh... Hawaii was so hot. I felt like I was melting...",
+      "secIdle3Text": "... Ah! Oh no! My popsicle melted.",
+      "secTouchText": "... Are you trying to encourage me?",
+      "secSpecialTouchText": "Ah, it\u0027s so hot...",
+      "secIdle1AudioUrl": "https://azurlane.koumakan.jp/w/images/e/e3/McCall_SecIdle1JP.ogg",
+      "secIdle2AudioUrl": "https://azurlane.koumakan.jp/w/images/1/16/McCall_SecIdle2JP.ogg",
+      "secIdle3AudioUrl": "https://azurlane.koumakan.jp/w/images/5/5e/McCall_SecIdle3JP.ogg",
+      "secTouchAudioUrl": "https://azurlane.koumakan.jp/w/images/9/97/McCall_Sec1JP.ogg",
+      "secSpecialTouchAudioUrl": "https://azurlane.koumakan.jp/w/images/2/23/McCall_Sec2JP.ogg"
+    }
+  ]
+}

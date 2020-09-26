@@ -1,0 +1,25 @@
+{
+  "name": "Downes",
+  "skins": [
+    {
+      "name": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/c/c4/DownesChibi.png",
+      "secIdle1Text": "Tsk! I\u0027m so bored~ I wanna blow something up!",
+      "secIdle2Text": "My magazine\u0027s too easy to hit? It\u0027s fine, one day or another it\u0027ll blow up anyway!",
+      "secIdle3Text": "Oh, Commander, what do you think of the phrase, \"I\u0027m only half the person I used to be\"? Sounds kinda philosophical, doesn\u0027t it?",
+      "secTouchText": "Ah, that\u0027s the spot, right there~",
+      "secSpecialTouchText": "You looking to get bitten?",
+      "secIdle1AudioUrl": "https://azurlane.koumakan.jp/w/images/3/30/Downes_SecIdle1JP.ogg",
+      "secIdle2AudioUrl": "https://azurlane.koumakan.jp/w/images/e/ed/Downes_SecIdle2JP.ogg",
+      "secIdle3AudioUrl": "https://azurlane.koumakan.jp/w/images/9/98/Downes_SecIdle3JP.ogg",
+      "secTouchAudioUrl": "https://azurlane.koumakan.jp/w/images/6/6b/Downes_Sec1JP.ogg",
+      "secSpecialTouchAudioUrl": "https://azurlane.koumakan.jp/w/images/2/2e/Downes_Sec2JP.ogg"
+    },
+    {
+      "name": "Retrofit",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/28/DownesKaiChibi.png",
+      "secIdle1Text": "Shall we go light things up on the seas? Well, just when you\u0027re free, Commander. I\u0027m not that bored yet~",
+      "secIdle1AudioUrl": "https://azurlane.koumakan.jp/w/images/9/93/Downes_SecIdle1Skin9JP.ogg"
+    }
+  ]
+}

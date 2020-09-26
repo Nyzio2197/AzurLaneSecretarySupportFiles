@@ -1,0 +1,19 @@
+{
+  "name": "Charles Auburne",
+  "skins": [
+    {
+      "name": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/36/Charles_AusburneChibi.png",
+      "secIdle1Text": "Become a friend of justice with me!",
+      "secIdle2Text": "Justice is justice~!",
+      "secIdle3Text": "My sonar shows... it looks like your heart is beating extra fast, Commander!",
+      "secTouchText": "Mmm, I feel the justice coming from you!",
+      "secSpecialTouchText": "!!... Uh oh... You\u0027re evil, Commander!",
+      "secIdle1AudioUrl": "https://azurlane.koumakan.jp/w/images/c/c5/Charles_Ausburne_SecIdle1JP.ogg",
+      "secIdle2AudioUrl": "https://azurlane.koumakan.jp/w/images/7/78/Charles_Ausburne_SecIdle2JP.ogg",
+      "secIdle3AudioUrl": "https://azurlane.koumakan.jp/w/images/1/1e/Charles_Ausburne_SecIdle3JP.ogg",
+      "secTouchAudioUrl": "https://azurlane.koumakan.jp/w/images/5/58/Charles_Ausburne_Sec1JP.ogg",
+      "secSpecialTouchAudioUrl": "https://azurlane.koumakan.jp/w/images/d/d1/Charles_Ausburne_Sec2JP.ogg"
+    }
+  ]
+}
