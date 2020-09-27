@@ -1,0 +1,113 @@
+{
+  "name": "Laffey",
+  "skins": [
+    {
+      "name": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/8/86/LaffeyChibi.png",
+      "secIdle1Text": "Commander, don\u0027t you think we should plant some flowers?",
+      "secIdle2Text": "Since you\u0027re ignoring me, I might as well... *yawns*... get some sleep.",
+      "secIdle3Text": "Yes? This is what I look like when I\u0027m happy.",
+      "secIdle4Text": "I\u0027m not trying to make you pay attention to me. Nope, not at all...",
+      "secIdle5Text": "I\u0027m not trying to get you to play with me. Nope, probably not...",
+      "secIdle6Text": "Commander... am I... scary?",
+      "secTouchText": "Are you tired, Commander?",
+      "secSpecialTouchText": "Are you... a pervert, Commander...?",
+      "secHeadPatText": "Mmh... Stop shaking me, Commander...",
+      "secIdle1AudioUrl": "https://azurlane.koumakan.jp/w/images/7/7d/Laffey_SecIdle1JP.ogg",
+      "secIdle2AudioUrl": "https://azurlane.koumakan.jp/w/images/5/59/Laffey_SecIdle2JP.ogg",
+      "secIdle3AudioUrl": "https://azurlane.koumakan.jp/w/images/f/f4/Laffey_SecIdle3JP.ogg",
+      "secIdle4AudioUrl": "https://azurlane.koumakan.jp/w/images/6/6e/Laffey_SecIdle4JP.ogg",
+      "secIdle5AudioUrl": "https://azurlane.koumakan.jp/w/images/d/da/Laffey_SecIdle5JP.ogg",
+      "secIdle6AudioUrl": "https://azurlane.koumakan.jp/w/images/c/c7/Laffey_SecIdle6JP.ogg",
+      "secTouchAudioUrl": "https://azurlane.koumakan.jp/w/images/2/2f/Laffey_Sec1JP.ogg",
+      "secSpecialTouchAudioUrl": "https://azurlane.koumakan.jp/w/images/a/aa/Laffey_Sec2JP.ogg",
+      "secHeadPatAudioUrl": "https://azurlane.koumakan.jp/w/images/2/2e/Laffey_HeadpatJP.ogg"
+    },
+    {
+      "name": "Retrofit",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/b/b8/LaffeyKaiChibi.png",
+      "secIdle1Text": "I’m not making a pose to win praise from my Commander, emm, of course not.",
+      "secIdle2Text": "But keeping this pose is... so tiresome... Commander, your lap, I want to take a nap on it Zzzzzz",
+      "secIdle3Text": "Everyone has been saying that I look more handsome now, but my essence remains unchanged, is that a compliment?",
+      "secTouchText": "Emm... umm... uh-oh, I fell asleep while standing.",
+      "secIdle1AudioUrl": "https://azurlane.koumakan.jp/w/images/c/c5/Laffey_SecIdle1Skin9JP.ogg",
+      "secIdle2AudioUrl": "https://azurlane.koumakan.jp/w/images/e/eb/Laffey_SecIdle2Skin9JP.ogg",
+      "secIdle3AudioUrl": "https://azurlane.koumakan.jp/w/images/2/2c/Laffey_SecIdle3Skin9JP.ogg",
+      "secTouchAudioUrl": "https://azurlane.koumakan.jp/w/images/c/c6/Laffey_Sec1Skin9JP.ogg"
+    },
+    {
+      "name": "White Rabbit's Oath",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/70/LaffeyWeddingChibi.png",
+      "secIdle1Text": "Mm... Laffey is getting sleepy. Commander\u0027s lap feels nice, so I\u0027ll sleep here...",
+      "secIdle2Text": "Laffey gets a disease that makes her fall asleep when she\u0027s not with Commander. I\u0027m not lying, it\u0027s true...",
+      "secIdle3Text": "Even if Commander is staring at another girl, Laffey won\u0027t get upset at all. Mm, I really won\u0027t. Get. Upset. At. All.",
+      "secIdle4Text": "Commander, if you pamper Laffey so much, she will turn into a Yayanami.",
+      "secIdle5Text": "No matter how tough things get, Laffey will always return to Commander\u0027s side... Because we made a vow...",
+      "secTouchText": "Commander, did you also contract the disease that makes you fall asleep if you leave Laffey\u0027s side?",
+      "secSpecialTouchText": "Laffey... has almost gotten used to Commander\u0027s lechery...",
+      "secHeadPatText": "Commander, do you like Laffey\u0027s bunny ears?",
+      "secIdle1AudioUrl": "https://azurlane.koumakan.jp/w/images/1/1e/Laffey_SecIdle1Skin8JP.ogg",
+      "secIdle2AudioUrl": "https://azurlane.koumakan.jp/w/images/7/76/Laffey_SecIdle2Skin8JP.ogg",
+      "secIdle3AudioUrl": "https://azurlane.koumakan.jp/w/images/b/b3/Laffey_SecIdle3Skin8JP.ogg",
+      "secIdle4AudioUrl": "https://azurlane.koumakan.jp/w/images/4/40/Laffey_SecIdle4Skin8JP.ogg",
+      "secIdle5AudioUrl": "https://azurlane.koumakan.jp/w/images/0/06/Laffey_SecIdle5Skin8JP.ogg",
+      "secTouchAudioUrl": "https://azurlane.koumakan.jp/w/images/d/d6/Laffey_Sec1Skin8JP.ogg",
+      "secSpecialTouchAudioUrl": "https://azurlane.koumakan.jp/w/images/6/60/Laffey_Sec2Skin8JP.ogg",
+      "secHeadPatAudioUrl": "https://azurlane.koumakan.jp/w/images/e/ec/Laffey_HeadpatSkin8JP.ogg"
+    },
+    {
+      "name": "33娘\t",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/4/40/LaffeyBilibiliChibi.png"
+    },
+    {
+      "name": "Snow Rabbit and Candy Apple\t",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/a9/LaffeyNew_YearChibi.png",
+      "secIdle1Text": "Want a candied apple, Commander? I got it from Ayanami. Here.",
+      "secIdle2Text": "I hope... I\u0027ll have lots of good naps... this whole year.",
+      "secIdle3Text": "Commander, my friends are calling for me... so I\u0027m gonna go play with them.",
+      "secTouchText": "Winter... makes me so sleepy...",
+      "secSpecialTouchText": "Commander, you pervert...",
+      "secIdle1AudioUrl": "https://azurlane.koumakan.jp/w/images/6/63/Laffey_SecIdle1Skin2JP.ogg",
+      "secIdle2AudioUrl": "https://azurlane.koumakan.jp/w/images/b/b3/Laffey_SecIdle2Skin2JP.ogg",
+      "secIdle3AudioUrl": "https://azurlane.koumakan.jp/w/images/5/59/Laffey_SecIdle3Skin2JP.ogg",
+      "secTouchAudioUrl": "https://azurlane.koumakan.jp/w/images/d/d7/Laffey_Sec1Skin2JP.ogg",
+      "secSpecialTouchAudioUrl": "https://azurlane.koumakan.jp/w/images/6/65/Laffey_Sec2Skin2JP.ogg"
+    },
+    {
+      "name": "White Rabbit Welcomes the Spring\t",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/0/00/LaffeySpringChibi.png",
+      "secIdle1Text": "I\u0027m wearing limited-edition Lunar New Year bunny ears and bunny slippers... do you like them? I like them.",
+      "secIdle2Text": "I think Zed is interested in old Lunar New Year folklore...",
+      "secIdle3Text": "Sitting on top of this tree makes me feel like I\u0027m going to blossom, too...",
+      "secTouchText": "I totally don\u0027t feel like leaning against your shoulder, Commander. Nope, not at all...",
+      "secSpecialTouchText": "Commander, are you having weird thoughts again...?",
+      "secIdle1AudioUrl": "https://azurlane.koumakan.jp/w/images/8/86/Laffey_SecIdle1Skin3JP.ogg",
+      "secIdle2AudioUrl": "https://azurlane.koumakan.jp/w/images/b/bf/Laffey_SecIdle2Skin3JP.ogg",
+      "secIdle3AudioUrl": "https://azurlane.koumakan.jp/w/images/9/96/Laffey_SecIdle3Skin3JP.ogg",
+      "secTouchAudioUrl": "https://azurlane.koumakan.jp/w/images/9/96/Laffey_Sec1Skin3JP.ogg",
+      "secSpecialTouchAudioUrl": "https://azurlane.koumakan.jp/w/images/0/01/Laffey_Sec2Skin3JP.ogg"
+    },
+    {
+      "name": "Bunny Clerk?\t",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/3/3a/LaffeyCoCoChibi.png"
+    },
+    {
+      "name": "Picnic Adventure?\t",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/d/d0/LaffeyBlurayChibi.png"
+    },
+    {
+      "name": "Bunny Idol @Unmotivated\t",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/6/67/LaffeyIdolChibi.png",
+      "secIdle1Text": "All these lessons and rehearsals... What a pain... Can I just put on a show where I sleep while standing up?",
+      "secIdle2Text": "Even though Benson said that Laffey would do the entire Planet Bunny proud by becoming an idol, it honestly sounds like a pain in the bun. However, the outfit she made for me is really cute... so maybe I can put in some effort for her sake.",
+      "secIdle3Text": "I\u0027m done with today\u0027s lessons... they were unexpectedly fun.",
+      "secIdle4Text": "...I think I got some fanmail? Mm, it makes me a little happy..",
+      "secTouchText": "Commander, Laffey seems to be getting better at singing, because I can stand still now...",
+      "secIdle1AudioUrl": "https://azurlane.koumakan.jp/w/images/c/cf/Laffey_SecIdle1Skin6JP.ogg",
+      "secIdle2AudioUrl": "https://azurlane.koumakan.jp/w/images/5/5c/Laffey_SecIdle2Skin6JP.ogg",
+      "secIdle3AudioUrl": "https://azurlane.koumakan.jp/w/images/e/e3/Laffey_SecIdle3Skin6JP.ogg",
+      "secIdle4AudioUrl": "https://azurlane.koumakan.jp/w/images/c/c1/Laffey_SecIdle4Skin6JP.ogg",
+      "secTouchAudioUrl": "https://azurlane.koumakan.jp/w/images/5/5a/Laffey_Sec1Skin6JP.ogg"
+    }
+  ]
+}
