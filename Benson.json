@@ -1,0 +1,19 @@
+{
+  "name": "Benson",
+  "skins": [
+    {
+      "name": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/7/70/BensonChibi.png",
+      "secIdle1Text": "I\u0027m so cute! The cutest in the universe!",
+      "secIdle2Text": "I\u0027m telling you, Commander, Fletcher\u0027s house next door is full of people! Us girls need to help her out every now and then~.",
+      "secIdle3Text": "If you don\u0027t talk to me enough then I\u0027ll stop being a bunny! Woof woof!",
+      "secTouchText": "Whoa! I actually fell asleep! Could this be because of that fabled super hypnosis thing?!",
+      "secSpecialTouchText": "Ah, I feel so hot... I\u0027m burning inside!",
+      "secIdle1AudioUrl": "https://azurlane.koumakan.jp/w/images/b/be/Benson_SecIdle1JP.ogg",
+      "secIdle2AudioUrl": "https://azurlane.koumakan.jp/w/images/4/43/Benson_SecIdle2JP.ogg",
+      "secIdle3AudioUrl": "https://azurlane.koumakan.jp/w/images/4/40/Benson_SecIdle3JP.ogg",
+      "secTouchAudioUrl": "https://azurlane.koumakan.jp/w/images/8/85/Benson_Sec1JP.ogg",
+      "secSpecialTouchAudioUrl": "https://azurlane.koumakan.jp/w/images/3/37/Benson_Sec2JP.ogg"
+    }
+  ]
+}

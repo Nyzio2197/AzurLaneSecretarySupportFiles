@@ -1,0 +1,19 @@
+{
+  "name": "Thatcher",
+  "skins": [
+    {
+      "name": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/a/a0/ThatcherChibi.png",
+      "secIdle1Text": "Commander, don\u0027t just stand there, come play with me!",
+      "secIdle2Text": "Hahaha, look! Spence\u0027s reactions are so hilarious!",
+      "secIdle3Text": "Since I don\u0027t know when I\u0027ll do something wrong, I\u0027ll just go ahead and apologize now.",
+      "secTouchText": "I know what it is you really want to touch, weirdo!",
+      "secSpecialTouchText": "Hoho? You wanna touch me there again?",
+      "secIdle1AudioUrl": "https://azurlane.koumakan.jp/w/images/b/bc/Thatcher_SecIdle1JP.ogg",
+      "secIdle2AudioUrl": "https://azurlane.koumakan.jp/w/images/3/31/Thatcher_SecIdle2JP.ogg",
+      "secIdle3AudioUrl": "https://azurlane.koumakan.jp/w/images/0/05/Thatcher_SecIdle3JP.ogg",
+      "secTouchAudioUrl": "https://azurlane.koumakan.jp/w/images/7/7c/Thatcher_Sec1JP.ogg",
+      "secSpecialTouchAudioUrl": "https://azurlane.koumakan.jp/w/images/7/72/Thatcher_Sec2JP.ogg"
+    }
+  ]
+}

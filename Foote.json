@@ -1,0 +1,19 @@
+{
+  "name": "Foote",
+  "skins": [
+    {
+      "name": "Default",
+      "chibiUrl": "https://azurlane.koumakan.jp/w/images/2/2d/FooteChibi.png",
+      "secIdle1Text": "*Tsk* Is the food ready yet?",
+      "secIdle2Text": "Commander... this doesn\u0027t go... oh forget it. It\u0027s too much trouble to fix.",
+      "secIdle3Text": "Thatcher and Spence are always fighting. Can\u0027t they just quiet down?",
+      "secTouchText": "C-Commander... Could you stop touching me for a while?! I\u0027m getting sore...",
+      "secSpecialTouchText": "Being shy... is also pretty annoying...",
+      "secIdle1AudioUrl": "https://azurlane.koumakan.jp/w/images/3/3a/Foote_SecIdle1JP.ogg",
+      "secIdle2AudioUrl": "https://azurlane.koumakan.jp/w/images/3/3e/Foote_SecIdle2JP.ogg",
+      "secIdle3AudioUrl": "https://azurlane.koumakan.jp/w/images/9/97/Foote_SecIdle3JP.ogg",
+      "secTouchAudioUrl": "https://azurlane.koumakan.jp/w/images/e/ef/Foote_Sec1JP.ogg",
+      "secSpecialTouchAudioUrl": "https://azurlane.koumakan.jp/w/images/0/00/Foote_Sec2JP.ogg"
+    }
+  ]
+}
